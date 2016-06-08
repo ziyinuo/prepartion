@@ -27,3 +27,14 @@ TR0： T0运行控制位，为1时，T1工作，软件置位
 定时的办法：软件定时，采用时基电路定时，采用可编程芯片定时。
 
 定时计数器实质是加1计数器（16位）高8位和低8位两个寄存器组成
+
+8051 based Full Static CMOS controller with Three-Level Program
+Memory Lock, 32 I/O lines, 3 Timers/Counters, 8 Interrupts Sources,
+Watchdog Timer, 2 DPTRs, 8K Flash Memory, 256 Bytes On-chip RAM
+
+
+
+8051-based Fullly Static 24MHz CMOS controller with 32  I/O Lines,
+3 Timers/Counters, 8 Interrupts/2 Priority Levels, UART,
+Three-Level Program Memory Lock, 8K Bytes Flash Memory,
+128 Bytes On-chip RAM
